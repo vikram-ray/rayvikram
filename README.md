@@ -45,10 +45,5 @@
 </p>
 
 
-<h3> 🤝🏻 &nbsp;MyWiki 🏻 &nbsp;</h3>
-
-<p align="center">
-<a href="https://github.com/rayvikram/nextjs-eg">NextJs Wiki</a>
-</p>
 
 
