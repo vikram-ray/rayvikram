@@ -30,9 +30,9 @@
 
 <br/>
 
-<a href="https://github.com/rayvikram">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayvikram&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayvikram&theme=buefy&layout=compact" />
+<a href="https://github.com/vikram-ray">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikram-ray&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram-ray&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -41,7 +41,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vikram-ray/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Vikram%20Ray-green"></a>
-<a href="mailto:vik8876@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vik8876@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:thevikramray@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-thevikramray@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
